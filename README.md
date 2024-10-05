@@ -1,3 +1,2 @@
-# learn_DL
-I upload what I have learned about Deep Learninng.
-
+# CS229, CS231, CS224 exercise
+Exercise for some ML, DL course
